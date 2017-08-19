@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int n;
+scanf("%d",&n);
+if(n<0)
+printf("This is negative number");
+else
+printf("\n This is positive number");
+return 0;
+}
